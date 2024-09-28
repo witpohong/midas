@@ -1,0 +1,6 @@
+cloudscraper
+colorama
+pyfiglet
+schedule
+requests
+pytz
